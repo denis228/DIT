@@ -1,5 +1,6 @@
 #include<stdio.h>
 //учебная программа
+//слияние 2 программ (division и master)
 int main()
 {
 	int a, b, c;
@@ -12,6 +13,8 @@ int main()
 	c=a-b;
 	printf("c=%d", c);
 	c=a*b;
+	printf("c=%d", c);
+	c=a/b;
 	printf("c=%d",c);
 	return 0;
 }
