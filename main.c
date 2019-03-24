@@ -1,4 +1,5 @@
 #include<stdio.h>
+//учебная программа
 int main()
 {
 	int a, b, c;
