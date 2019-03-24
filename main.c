@@ -7,6 +7,8 @@ int main()
 	printf("b=");
 	scanf("%d",&b);
 	c=a+b;
+	printf("c=%d\n", c);
+	c=a-b;
 	printf("c=%d", c);
 	return 0;
 }
