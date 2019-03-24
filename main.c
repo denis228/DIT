@@ -11,5 +11,7 @@ int main()
 	printf("c=%d\n", c);
 	c=a-b;
 	printf("c=%d", c);
+	c=a*b;
+	printf("c=%d",c);
 	return 0;
 }
